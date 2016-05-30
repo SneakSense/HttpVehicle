@@ -1,0 +1,19 @@
+//TODO : Validators result if contains string
+//TODO : Multysave validation
+//TODO : user funcs as delegates for parsers
+//TODO : Test if there is problrm assigning by ref
+//TODO : ValidateProxyUp not working!
+//TODO : ParsersExtractors must work with arrays
+//TODO : Better foldering (save/load)
+
+//TODO : Execution flow/loops - CLAUSES : proxy history
+//TODO : Integrate cryptography
+//TODO : Integrate JS engine
+//TODO : Integrate simple OCR
+//TODO : Integrate file convertors
+//TODO : SQL support
+
+//TODO : proxy checking; proxy filter by type; proxy filter by info;
+//TODO : random info proxy scraping
+//TODO : google search
+//TODO : streaming
