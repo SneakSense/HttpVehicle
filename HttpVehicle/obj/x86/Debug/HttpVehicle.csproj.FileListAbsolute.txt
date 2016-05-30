@@ -1,0 +1,5 @@
+C:\Users\vchernev\Desktop\HttpVehicle\HttpVehicle\bin\x86\Debug\HttpVehicle.dll
+C:\Users\vchernev\Desktop\HttpVehicle\HttpVehicle\bin\x86\Debug\HttpVehicle.pdb
+C:\Users\vchernev\Desktop\HttpVehicle\HttpVehicle\obj\x86\Debug\HttpVehicle.csprojResolveAssemblyReference.cache
+C:\Users\vchernev\Desktop\HttpVehicle\HttpVehicle\obj\x86\Debug\HttpVehicle.dll
+C:\Users\vchernev\Desktop\HttpVehicle\HttpVehicle\obj\x86\Debug\HttpVehicle.pdb

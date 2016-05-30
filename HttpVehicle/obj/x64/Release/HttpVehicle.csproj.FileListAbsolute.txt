@@ -1,0 +1,4 @@
+C:\Users\vchernev\Desktop\HttpVehicle\HttpVehicle\bin\x64\Release\HttpVehicle.dll
+C:\Users\vchernev\Desktop\HttpVehicle\HttpVehicle\bin\x64\Release\HttpVehicle.pdb
+C:\Users\vchernev\Desktop\HttpVehicle\HttpVehicle\obj\x64\Release\HttpVehicle.dll
+C:\Users\vchernev\Desktop\HttpVehicle\HttpVehicle\obj\x64\Release\HttpVehicle.pdb
