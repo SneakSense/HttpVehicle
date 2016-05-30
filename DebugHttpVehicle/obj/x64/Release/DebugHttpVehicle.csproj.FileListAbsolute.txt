@@ -1,0 +1,7 @@
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\bin\x64\Release\DebugHttpVehicle.exe.config
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\bin\x64\Release\DebugHttpVehicle.exe
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\bin\x64\Release\DebugHttpVehicle.pdb
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\bin\x64\Release\HttpVehicle.dll
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\bin\x64\Release\HttpVehicle.pdb
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\obj\x64\Release\DebugHttpVehicle.exe
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\obj\x64\Release\DebugHttpVehicle.pdb

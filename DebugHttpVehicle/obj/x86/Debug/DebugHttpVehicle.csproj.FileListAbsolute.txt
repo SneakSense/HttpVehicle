@@ -1,0 +1,8 @@
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\bin\x86\Debug\DebugHttpVehicle.exe.config
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\bin\x86\Debug\DebugHttpVehicle.exe
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\bin\x86\Debug\DebugHttpVehicle.pdb
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\bin\x86\Debug\HttpVehicle.dll
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\bin\x86\Debug\HttpVehicle.pdb
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\obj\x86\Debug\DebugHttpVehicle.csprojResolveAssemblyReference.cache
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\obj\x86\Debug\DebugHttpVehicle.exe
+C:\Users\vchernev\Desktop\HttpVehicle\DebugHttpVehicle\obj\x86\Debug\DebugHttpVehicle.pdb
